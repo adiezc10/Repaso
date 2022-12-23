@@ -12,7 +12,7 @@ package com.mycompany.proyectorepaso;
 public class ProyectoRepaso {
 
     public static void main(String[] args) {
-        System.out.println("Primera línea");
+        System.out.println("Línea con conflicto");
         System.out.println("Segunda línea");
     }
 }
